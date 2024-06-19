@@ -4,8 +4,8 @@ Image Gallery is a web application built using React, designed to provide users 
 
 ![image-gallery-react.png](./public/image-gallery.jpeg)
 
-<!-- ## Live Demo
-You can view the live demo [here](https://image-gallery-react.netlify.app/). -->
+## Live Demo
+You can view the live demo [here](https://dummy-image-gallery.netlify.app/).
 
 ## Features
 
